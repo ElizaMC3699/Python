@@ -20,4 +20,15 @@ float_string_num = float(string_num)
 print(float_string_num)
 print(type(float_string_num))
 
+# Operators
 
+num_1 = 3
+num_2 = 2
+
+print(num_1 + num_2) # addition
+print(num_1 - num_2) # subtraction
+print(num_1 * num_2) # multiplication
+print(num_1 / num_2) # division
+print(num_1 ** num_2) # exponential
+print(num_1 % num_2) # modulus
+print(10 // 3) # floor division operator
