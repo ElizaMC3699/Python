@@ -20,7 +20,13 @@ country = 'Ecuador'
 
 print(first_name, last_name, country)
 
-# input
+# variables in one line
+
+city, age = 'Manta', '230'
+
+print('City:', city, '. Age:', age)
+
+# input in the terminal
 
 age = input('How old are you? ')
 
